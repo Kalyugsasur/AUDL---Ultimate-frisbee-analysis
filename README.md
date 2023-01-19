@@ -1,0 +1,2 @@
+# AUDL---Ultimate-frisbee-analysis
+This was a capstone project for "DS-GA1001 - Intro to Data Science". As part of the project, we ran hypothesis testing to identify if there were any differences across the different AUDL leagues followed by creating a prediction algorithm for predicting win vs loss in a single match. Finally we classified each player into a specific role they play in the team by using the statistics recorded from each game. Please refer to the report for further details around the analysis 
